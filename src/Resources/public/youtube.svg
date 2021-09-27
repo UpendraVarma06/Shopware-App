@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42 43.9">
+  <defs>
+    <radialGradient id="be85a17d-8cb2-4361-a1f9-1a46aeb85aa3" cx="21" cy="22.9" r="21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000057"/>
+      <stop offset="0.39" stop-color="#7575a4" stop-opacity="0.54"/>
+      <stop offset="0.79" stop-color="#d9d9e6" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>youtube</title>
+  <g style="isolation: isolate">
+    <g id="bb7bec52-a5c0-4104-898d-444657778851" data-name="ELEMENTS">
+      <circle cx="21" cy="22.9" r="21" opacity="0.8" fill="url(#be85a17d-8cb2-4361-a1f9-1a46aeb85aa3)" style="mix-blend-mode: multiply"/>
+      <circle cx="15.35" cy="14.62" r="14.62" fill="#00616a"/>
+      <path d="M247.75,66.35a3.51,3.51,0,0,0-3.51-3.51h-9a3.51,3.51,0,0,0-3.51,3.51v4.18A3.51,3.51,0,0,0,235.26,74h9a3.51,3.51,0,0,0,3.51-3.51Zm-5.28,2.4-4,2c-.16.09-.69,0-.69-.2V66.45c0-.18.54-.3.7-.21l3.85,2.1C242.46,68.43,242.63,68.66,242.47,68.75Z" transform="translate(-224.57 -53.85)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

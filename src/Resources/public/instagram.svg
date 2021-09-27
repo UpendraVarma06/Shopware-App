@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42 44.17">
+  <defs>
+    <radialGradient id="aca925d9-8f86-4108-bdb2-417420328ddb" cx="21" cy="23.17" r="21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000057"/>
+      <stop offset="0.39" stop-color="#7575a4" stop-opacity="0.54"/>
+      <stop offset="0.79" stop-color="#d9d9e6" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>instagram</title>
+  <g style="isolation: isolate">
+    <g id="ec16fd05-fe26-4f44-9b6b-c8c9d92f6323" data-name="ELEMENTS">
+      <circle cx="21" cy="23.17" r="21" opacity="0.8" fill="url(#aca925d9-8f86-4108-bdb2-417420328ddb)" style="mix-blend-mode: multiply"/>
+      <circle cx="15.35" cy="14.62" r="14.62" fill="#00616a"/>
+      <g>
+        <path d="M195.8,48.32a1,1,0,1,0,1,1A1,1,0,0,0,195.8,48.32Z" transform="translate(-175.91 -39.23)" fill="#fff"/>
+        <path d="M191.33,49.61a4.23,4.23,0,1,0,4.22,4.22A4.23,4.23,0,0,0,191.33,49.61Zm0,6.93A2.71,2.71,0,1,1,194,53.83,2.7,2.7,0,0,1,191.33,56.54Z" transform="translate(-175.91 -39.23)" fill="#fff"/>
+        <path d="M194.68,62.41h-6.84a5.16,5.16,0,0,1-5.15-5.15V50.41a5.16,5.16,0,0,1,5.15-5.15h6.84a5.16,5.16,0,0,1,5.15,5.15v6.85A5.16,5.16,0,0,1,194.68,62.41Zm-6.84-15.53a3.54,3.54,0,0,0-3.54,3.53v6.85a3.54,3.54,0,0,0,3.54,3.53h6.84a3.54,3.54,0,0,0,3.54-3.53V50.41a3.54,3.54,0,0,0-3.54-3.53Z" transform="translate(-175.91 -39.23)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

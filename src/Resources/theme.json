@@ -1,0 +1,21 @@
+{
+    "name": "Meekilli",
+    "author": "Joschi Mehta",
+    "views": [
+        "@Storefront",
+        "@Plugins",
+        "@Meekilli"
+    ],
+    "style": [
+        "app/storefront/src/scss/overrides.scss",
+        "@Storefront",
+        "app/storefront/src/scss/base.scss"
+    ],
+    "script": [
+        "@Storefront"
+    ],
+    "assets": [
+        "@Storefront",
+        "app/storefront/src/assets"
+    ]
+}
